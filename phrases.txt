@@ -1,0 +1,28 @@
+Cấm đi ngược chiều
+Cấm đỗ xe
+Cấm dừng và đỗ
+Cấm rẽ trái
+Cấm rẽ phải
+Cấm quay đầu
+Cấm quay đầu và rẽ trái
+Cấm quay đầu và rẽ phải
+Cấm xe máy
+Cấm ô tô
+Cấm xe tải
+Biển cấm khác
+Biển hiệu lệnh
+Biển chỉ dẫn hướng đi
+Giới hạn tốc độ
+Giới hạn tải trọng
+Giới hạn chiều cao
+Người đi bộ qua đường
+Cảnh báo giao nhau
+Cảnh báo nguy hiểm đường
+Cảnh báo người đi bộ
+Cảnh báo công trường
+Cảnh báo đi chậm
+Cảnh báo khác
+Làn đường cho phép
+Làn đường và tốc độ cho phép
+Hướng đi qua cầu vượt
+Hết cấm
