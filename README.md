@@ -6,3 +6,23 @@ The system is packaged and deployed using Docker, and simulates a Raspberry Pi 4
 The results show that the model can perform efficient inference with low latency, demonstrating its potential application in ADAS (Advanced Driver Assistance Systems) or AI Camera solutions in intelligent transportation.
 
 Download the dataset: https://www.kaggle.com/datasets/jaydenguyenx/vietnamese-traffic-signs-detection-and-recognition
+
+Video Input
+     │
+     ▼
+Frame Extraction (OpenCV)
+     │
+     ▼
+YOLOv8 Traffic Sign Detection
+     │
+     ▼
+Sign Classification
+     │
+     ▼
+Warning Message Mapping
+     │
+     ▼
+Audio Alert System
+     │
+     ▼
+Real-time Driver Assistance
