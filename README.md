@@ -7,22 +7,3 @@ The results show that the model can perform efficient inference with low latency
 
 Download the dataset: https://www.kaggle.com/datasets/jaydenguyenx/vietnamese-traffic-signs-detection-and-recognition
 
-Video Input
-     │
-     ▼
-Frame Extraction (OpenCV)
-     │
-     ▼
-YOLOv8 Traffic Sign Detection
-     │
-     ▼
-Sign Classification
-     │
-     ▼
-Warning Message Mapping
-     │
-     ▼
-Audio Alert System
-     │
-     ▼
-Real-time Driver Assistance
